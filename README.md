@@ -2,7 +2,7 @@
 
 *Este projeto busca analisar o termo de vulnerabilidade social e seu conceito multidimensional. Tais dados possibilitam refletir e estabelecer a importância para diferenciar a vulnerabilidade entre situações semelhantes de pobreza.* 
 
-
+Os dados desse projeto não serão disponibilizados.
 
 ### Arquitetura
 
